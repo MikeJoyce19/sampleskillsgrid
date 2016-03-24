@@ -1,0 +1,573 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Jason Tieszen",
+      "role": "evaluator",
+      "imageUrl": "http://i.imgur.com/96H7Qeb.png"
+    },
+    {
+      "id": 2,
+      "username": "Jason Erdahl",
+      "role": "assessor",
+      "imageUrl": "http://i.imgur.com/VgAy2KP.png"
+    },
+    {
+      "id": 3,
+      "username": "Jonathan \"JOMAN\" Oman",
+      "role": "candidate",
+      "imageUrl": "http://i.imgur.com/yBB4NaM.png"
+    },
+    {
+      "id": 4,
+      "username": "Mike Joyce",
+      "role": "candidate",
+      "imageUrl": "http://i.imgur.com/yBB4NaM.png"
+    },
+    {
+      "id": 4,
+      "username": "Sean Epping",
+      "role": "assessor",
+      "imageUrl": "http://i.imgur.com/yBB4NaM.png"
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "skill": ".NET",
+      "skillset": ".NET"
+    },
+    {
+      "id": 2,
+      "skill": ".NET Core 1",
+      "skillset": ".NET"
+    },
+    {
+      "id": 3,
+      "skill": "ASP.NET",
+      "skillset": ".NET"
+    },
+    {
+      "id": 4,
+      "skill": "ASP.NET MVC",
+      "skillset": ".NET"
+    },
+    {
+      "id": 5,
+      "skill": "ASP.NET Web API",
+      "skillset": ".NET"
+    },
+    {
+      "id": 6,
+      "skill": "ASP.NET Web Forms",
+      "skillset": ".NET"
+    },
+    {
+      "id": 7,
+      "skill": "C#",
+      "skillset": ".NET"
+    },
+    {
+      "id": 8,
+      "skill": "VB.NET",
+      "skillset": ".NET"
+    },
+    {
+      "id": 9,
+      "skill": "WCF",
+      "skillset": ".NET"
+    },
+    {
+      "id": 10,
+      "skill": "XAML",
+      "skillset": ".NET"
+    },
+    {
+      "id": 11,
+      "skill": "Application Architecture",
+      "skillset": "Architecture Skills"
+    },
+    {
+      "id": 12,
+      "skill": "AWS",
+      "skillset": "Architecture Skills"
+    },
+    {
+      "id": 13,
+      "skill": "Azure",
+      "skillset": "Architecture Skills"
+    },
+    {
+      "id": 14,
+      "skill": "Data Architecture",
+      "skillset": "Architecture Skills"
+    },
+    {
+      "id": 15,
+      "skill": "Development Best Practices",
+      "skillset": "Architecture Skills"
+    },
+    {
+      "id": 16,
+      "skill": "Enterprise Architecture",
+      "skillset": "Architecture Skills"
+    },
+    {
+      "id": 17,
+      "skill": "Message Queues",
+      "skillset": "Architecture Skills"
+    },
+    {
+      "id": 18,
+      "skill": "Micro Services",
+      "skillset": "Architecture Skills"
+    },
+    {
+      "id": 19,
+      "skill": "Security",
+      "skillset": "Architecture Skills"
+    },
+    {
+      "id": 20,
+      "skill": "iOS",
+      "skillset": "Architecture Skills"
+    },
+    {
+      "id": 21,
+      "skill": "GraphDB",
+      "skillset": "Database"
+    },
+    {
+      "id": 22,
+      "skill": "MSSQL Server",
+      "skillset": "Database"
+    },
+    {
+      "id": 23,
+      "skill": "NoSQL",
+      "skillset": "Database"
+    },
+    {
+      "id": 24,
+      "skill": "ORM Frameworks",
+      "skillset": "Database"
+    },
+    {
+      "id": 25,
+      "skill": "SQL Performance",
+      "skillset": "Database"
+    },
+    {
+      "id": 26,
+      "skill": "SQL Programmability",
+      "skillset": "Database"
+    },
+    {
+      "id": 27,
+      "skill": "SQL Syntax",
+      "skillset": "Database"
+    },
+    {
+      "id": 28,
+      "skill": "ADA Compliance",
+      "skillset": "Front End"
+    },
+    {
+      "id": 29,
+      "skill": "CSS",
+      "skillset": "Front End"
+    },
+    {
+      "id": 30,
+      "skill": "HTML",
+      "skillset": "Front End"
+    },
+    {
+      "id": 31,
+      "skill": "Responsive",
+      "skillset": "Front End"
+    },
+    {
+      "id": 32,
+      "skill": "Angular",
+      "skillset": "Javascript"
+    },
+    {
+      "id": 33,
+      "skill": "Aurelia",
+      "skillset": "Javascript"
+    },
+    {
+      "id": 34,
+      "skill": "Backbone",
+      "skillset": "Javascript"
+    },
+    {
+      "id": 35,
+      "skill": "Ember",
+      "skillset": "Javascript"
+    },
+    {
+      "id": 36,
+      "skill": "Javascript",
+      "skillset": "Javascript"
+    },
+    {
+      "id": 37,
+      "skill": "jQuery",
+      "skillset": "Javascript"
+    },
+    {
+      "id": 38,
+      "skill": "React",
+      "skillset": "Javascript"
+    },
+    {
+      "id": 39,
+      "skill": "Android",
+      "skillset": "Mobile"
+    },
+    {
+      "id": 40,
+      "skill": "iOS",
+      "skillset": "Mobile"
+    },
+    {
+      "id": 41,
+      "skill": "Mobile Architecture",
+      "skillset": "Mobile"
+    },
+    {
+      "id": 42,
+      "skill": "Mobile Web",
+      "skillset": "Mobile"
+    },
+    {
+      "id": 43,
+      "skill": "PhoneGap/Cordova",
+      "skillset": "Mobile"
+    },
+    {
+      "id": 44,
+      "skill": "Windows Mobile",
+      "skillset": "Mobile"
+    },
+    {
+      "id": 45,
+      "skill": "Xamarin",
+      "skillset": "Mobile"
+    },
+    {
+      "id": 46,
+      "skill": "CMS",
+      "skillset": "Other"
+    },
+    {
+      "id": 47,
+      "skill": "CQ5/AEM",
+      "skillset": "Other"
+    },
+    {
+      "id": 48,
+      "skill": "NodeJS",
+      "skillset": "Other"
+    },
+    {
+      "id": 49,
+      "skill": "Other Languages",
+      "skillset": "Other"
+    },
+    {
+      "id": 50,
+      "skill": "Sitecore",
+      "skillset": "Other"
+    },
+    {
+      "id": 51,
+      "skill": "Appearance",
+      "skillset": "Soft Skills"
+    },
+    {
+      "id": 52,
+      "skill": "Communcation",
+      "skillset": "Soft Skills"
+    },
+    {
+      "id": 53,
+      "skill": "Confidence",
+      "skillset": "Soft Skills"
+    },
+    {
+      "id": 54,
+      "skill": "Flexibility",
+      "skillset": "Soft Skills"
+    },
+    {
+      "id": 55,
+      "skill": "Growth Potential",
+      "skillset": "Soft Skills"
+    },
+    {
+      "id": 56,
+      "skill": "Leadership",
+      "skillset": "Soft Skills"
+    },
+    {
+      "id": 57,
+      "skill": "Professionalism",
+      "skillset": "Soft Skills"
+    },
+    {
+      "id": 58,
+      "skill": "Teamwork",
+      "skillset": "Soft Skills"
+    },
+    {
+      "id": 59,
+      "skill": "Managing Client Relationships ",
+      "skillset": "Soft Tech"
+    },
+    {
+      "id": 60,
+      "skill": "Project Management",
+      "skillset": "Soft Tech"
+    },
+    {
+      "id": 61,
+      "skill": "Staying Current Independently ",
+      "skillset": "Soft Tech"
+    },
+    {
+      "id": 62,
+      "skill": "Technical Articulation",
+      "skillset": "Soft Tech"
+    }
+  ],
+  "assessments": [
+    {
+      "id": 1,
+      "createdDate": 1458577137952,
+      "createdBy": "Jason Erdahl",
+      "candidateId": 3,
+      "evaluations": [
+        {
+          "id": 1,
+          "evaluationDate": 1458577137952,
+          "evaluator": "Jason Tieszen",
+          "scoring": [
+            {
+              "id": 1,
+              "skill": ".NET",
+              "skillset": ".NET",
+              "rating": 3
+            },
+            {
+              "id": 2,
+              "skill": ".NET Core 1",
+              "skillset": ".NET",
+              "rating": 6
+            },
+            {
+              "id": 3,
+              "skill": "ASP.NET",
+              "skillset": ".NET",
+              "rating": 6
+            },
+            {
+              "id": 4,
+              "skill": "ASP.NET MVC",
+              "skillset": ".NET",
+              "rating": 5
+            },
+            {
+              "id": 5,
+              "skill": "ASP.NET Web API",
+              "skillset": ".NET",
+              "rating": 3
+            },
+            {
+              "id": 6,
+              "skill": "ASP.NET Web Forms",
+              "skillset": ".NET",
+              "rating": 7
+            },
+            {
+              "id": 7,
+              "skill": "C#",
+              "skillset": ".NET",
+              "rating": 4
+            },
+            {
+              "id": 8,
+              "skill": "VB.NET",
+              "skillset": ".NET",
+              "rating": 2
+            },
+            {
+              "id": 9,
+              "skill": "WCF",
+              "skillset": ".NET",
+              "rating": 4
+            },
+            {
+              "id": 10,
+              "skill": "XAML",
+              "skillset": ".NET",
+              "rating": 5
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "assessmentId": 2,
+          "evaluationDate": 1458576137952,
+          "evaluator": "Sean Epping",
+          "scoring": [
+            {
+              "id": 1,
+              "skill": ".NET",
+              "skillset": ".NET",
+              "rating": 3
+            },
+            {
+              "id": 2,
+              "skill": ".NET Core 1",
+              "skillset": ".NET",
+              "rating": 6
+            },
+            {
+              "id": 3,
+              "skill": "ASP.NET",
+              "skillset": ".NET",
+              "rating": 6
+            },
+            {
+              "id": 4,
+              "skill": "ASP.NET MVC",
+              "skillset": ".NET",
+              "rating": 5
+            },
+            {
+              "id": 5,
+              "skill": "ASP.NET Web API",
+              "skillset": ".NET",
+              "rating": 3
+            },
+            {
+              "id": 6,
+              "skill": "ASP.NET Web Forms",
+              "skillset": ".NET",
+              "rating": 7
+            },
+            {
+              "id": 7,
+              "skill": "C#",
+              "skillset": ".NET",
+              "rating": 7
+            },
+            {
+              "id": 8,
+              "skill": "VB.NET",
+              "skillset": ".NET",
+              "rating": 6
+            },
+            {
+              "id": 9,
+              "skill": "WCF",
+              "skillset": ".NET",
+              "rating": 2
+            },
+            {
+              "id": 10,
+              "skill": "XAML",
+              "skillset": ".NET",
+              "rating": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "createdDate": 1458579137952,
+      "createdBy": "Jason Erdahl",
+      "candidateId": 4,
+      "isPending": true
+    },
+    {
+      "id": 3,
+      "createdDate": 1422684000000,
+      "createdBy": "Jason Erdahl",
+      "candidateId": 3,
+      "evaluations": [
+        {
+          "id": 3,
+          "evaluationDate": 1423029600000,
+          "evaluator": "Sean Epping",
+          "scoring": [
+            {
+              "id": 1,
+              "skill": ".NET",
+              "skillset": ".NET",
+              "rating": 3
+            },
+            {
+              "id": 2,
+              "skill": ".NET Core 1",
+              "skillset": ".NET",
+              "rating": 6
+            },
+            {
+              "id": 3,
+              "skill": "ASP.NET",
+              "skillset": ".NET",
+              "rating": 6
+            },
+            {
+              "id": 4,
+              "skill": "ASP.NET MVC",
+              "skillset": ".NET",
+              "rating": 5
+            },
+            {
+              "id": 5,
+              "skill": "ASP.NET Web API",
+              "skillset": ".NET",
+              "rating": 3
+            },
+            {
+              "id": 6,
+              "skill": "ASP.NET Web Forms",
+              "skillset": ".NET",
+              "rating": 7
+            },
+            {
+              "id": 7,
+              "skill": "C#",
+              "skillset": ".NET",
+              "rating": 7
+            },
+            {
+              "id": 8,
+              "skill": "VB.NET",
+              "skillset": ".NET",
+              "rating": 6
+            },
+            {
+              "id": 9,
+              "skill": "WCF",
+              "skillset": ".NET",
+              "rating": 2
+            },
+            {
+              "id": 10,
+              "skill": "XAML",
+              "skillset": ".NET",
+              "rating": 3
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
